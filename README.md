@@ -1,5 +1,8 @@
 # distant-shores-syntax theme
 
-A short description of your theme.
+Atom port of the Distant Shores syntax theme.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+* http://winterdom.com/2008/03/distantshoresavisualstudiocolorscheme
+* https://studiostyl.es/schemes/distant-shores-updated
+
+![Screenshot of Distant Shores](/testfiles/screenshot.png?raw=true)
