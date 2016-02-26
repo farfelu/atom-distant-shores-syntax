@@ -361,10 +361,11 @@ atom-text-editor .search-results .marker.current-result .region,
 }
 
 .js {
-    &.punctuation.definition
+    &.punctuation
     {
-        &.parameters,
-        &.arguments {
+        &.definition.parameters,
+        &.definition.arguments,
+        &.section.scope {
             &.begin, &.end {
                 color: @operator;
             }
